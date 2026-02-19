@@ -1,2 +1,3 @@
 Some must do or have to be able to get the graphs
+
 If u dont have python, or numpy or mathplot in a venv do it and install or use https://python-fiddle.com/examples/matplotlib
