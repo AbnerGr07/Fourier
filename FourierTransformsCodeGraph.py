@@ -1,6 +1,6 @@
 import numpy as np          #ñibrerias necesarias para hacer esto // si no tienes nada, instalar python, vs o cualquier hacer entorno virtual e intalar estas librerias
 import matplotlib.pyplot as plt
-#commentar mas para que sea legible el codigo
+
 # def coefficientes_f1 y para cada n q hay se va incrementando 1 en def fourier series
 def coefficients_f1(n):       
     """
@@ -141,4 +141,5 @@ plt.show()   # muestra TODAS las ventanas juntas al final
 ##ax.grid(True, alpha=0.4)
 ##ax.legend(fontsize=11)
 ##plt.tight_layout()
+
 ##plt.show()
